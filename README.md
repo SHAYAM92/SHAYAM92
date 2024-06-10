@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @SHAYAM92
-- 👀 I’m interested in WebDevlopment&DataAnalyst
+- 👀 I’m interested in WebDevlopment & DataAnalyst
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me shakthivel5556@gmail.com
